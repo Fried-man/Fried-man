@@ -10,7 +10,7 @@
                 \ \_\    \ \_\ \_\  \ \_\  \ \_____\  \ \____-  \ \_\ \ \_\  \ \_\ \_\  \ \_\\"\_\ 
                  \/_/     \/_/ /_/   \/_/   \/_____/   \/____/   \/_/  \/_/   \/_/\/_/   \/_/ \/_/ 
                      
-                                                 I program <a href="https://photos.app.goo.gl/DpoWmg4SSf4z2QPE9">cool shit</a>
+                                          I program <a href="https://photos.app.goo.gl/DpoWmg4SSf4z2QPE9">cool shit</a>
 
   > <a href="https://github.com/Anderita-Games">100 apps I made during high school</a>
   > <a href="https://github.com/Fried-man-Education">my entire cs college education</a>
