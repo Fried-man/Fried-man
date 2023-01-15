@@ -22,5 +22,5 @@ Please take the time to explore my profile and organizations, and get a sense of
 # Personal Organizations
 I am affiliated with several organizations on GitHub, some of which I am the sole owner of. These personal organizations serve as a way to organize many of my repositories categorically while keeping them easily accesible. 
 - [Anderita-Games](https://github.com/Anderita-Games) - 100 apps I created in high school
-- [Fried-man-Education](https://github.com/Fried-man-Education) - Academic & Recreational Educational Endeavours
+- [Fried-man-Education](https://github.com/Fried-man-Education) - Academic & recreational educational endeavours
 - [Unfinished-Repos](https://github.com/Unfinished-Repos) - "Can anything be sadder than work left unfinished? Yes, work never begun." - Christina Rossetti
