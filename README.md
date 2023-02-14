@@ -16,7 +16,7 @@ I first began programming recreationally in 2012, and since then, my love for co
 
 Please take the time to explore my profile and organizations, and get a sense of the work I am passionate about. Thank you again for stopping by, and I hope you have a wonderful day!
 # Favorite Projects
-- Flexer - exercise tracker & social network
+- [Flexer](https://www.friedman.works/project/flexer/) - exercise tracker & social network
 - [CENT](https://github.com/Fried-man/CENT) - COVID-19 variant relational visualiser
 - [Spherical Adventures](https://github.com/Anderita-Games/Spherical_Adventures) - 2D in 3D platformer game
 # Personal Organizations
