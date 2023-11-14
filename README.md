@@ -10,7 +10,7 @@
                 \ \_\    \ \_\ \_\  \ \_\  \ \_____\  \ \____-  \ \_\ \ \_\  \ \_\ \_\  \ \_\\"\_\ 
                  \/_/     \/_/ /_/   \/_/   \/_____/   \/____/   \/_/  \/_/   \/_/\/_/   \/_/ \/_/ 
 </pre>
-Hello, and welcome to my GitHub profile! I am grateful you have taken the time to visit and learn more about me. As a Computer Science major at the Georgia Institute of Technology, I have developed a deep love and passion for low-level computer architecture and the fascinating field of artificial intelligence. Additionally, I have a minor in Mathematics, which has helped me approach problem-solving logically and analytically.
+Hello, and welcome to my GitHub profile! I am grateful you have taken the time to visit and learn more about me. As a Computer Science major at the Georgia Institute of Technology, I have developed a deep love and passion for low-level computer architecture and the fascinating field of artificial intelligence.
 
 I first began programming recreationally in 2012, and since then, my love for computing has only grown stronger. It is a true joy for me to be able to use my skills and knowledge to create meaningful projects and contribute to the tech community.
 
