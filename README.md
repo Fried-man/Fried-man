@@ -10,17 +10,31 @@
                 \ \_\    \ \_\ \_\  \ \_\  \ \_____\  \ \____-  \ \_\ \ \_\  \ \_\ \_\  \ \_\\"\_\ 
                  \/_/     \/_/ /_/   \/_/   \/_____/   \/____/   \/_/  \/_/   \/_/\/_/   \/_/ \/_/ 
 </pre>
-Hello, and welcome to my GitHub profile! I am grateful you have taken the time to visit and learn more about me. As a Computer Science major at the Georgia Institute of Technology, I have developed a deep love and passion for low-level computer architecture and the fascinating field of artificial intelligence.
 
-I first began programming recreationally in 2012, and since then, my love for computing has only grown stronger. It is a true joy for me to be able to use my skills and knowledge to create meaningful projects and contribute to the tech community.
+Hello, and welcome to my GitHub profile! I'm **Andrew Friedman**, a Senior Software Engineer at [GEICO](https://github.com/Geico) and a Computer Science graduate of the Georgia Institute of Technology, where I studied Systems & Architecture and Intelligence. My work sits at the intersection of low-level computer architecture and artificial intelligence, and these days I spend most of my time architecting GEICO's next-generation, cross-platform Flutter platform.
 
-Please take the time to explore my profile and organizations, and get a sense of the work I am passionate about. Thank you again for stopping by, and I hope you have a wonderful day!
-# Favorite Projects
-- [Flexer](https://www.friedman.works/project/flexer/) - exercise tracker & social network
-- [CENT](https://github.com/Fried-man/CENT) - COVID-19 variant relational visualiser
-- [Spherical Adventures](https://github.com/Anderita-Games/Spherical_Adventures) - 2D in 3D platformer game
-# Personal Organizations
-I am affiliated with several organizations on GitHub, some of which I am the sole owner of. These personal organizations serve as a way to organize many of my repositories categorically while keeping them easily accesible. 
-- [Anderita-Games](https://github.com/Anderita-Games) - 100 apps I created in high school
-- [Fried-man-Education](https://github.com/Fried-man-Education) - Academic & recreational educational endeavours
-- [Unfinished-Repos](https://github.com/Unfinished-Repos) - "Can anything be sadder than work left unfinished? Yes, work never begun." - Christina Rossetti
+I first began programming recreationally in 2012, and since then my love for computing has only grown stronger. Over the last decade I've shipped 100+ apps to the public, contributed to large-scale monorepos used by 100+ engineers, and led the adoption of AI-assisted development tooling. It's a true joy to use my skills to build meaningful projects and give back to the tech community.
+
+Please take some time to explore my profile and organizations, and get a sense of the work I'm passionate about. Thank you for stopping by, and I hope you have a wonderful day!
+
+## What I'm Building
+- **Lead architect** of the Flutter host application rebuilding GEICO's entire mobile app, unifying two decade-old native iOS and Android codebases into a single Flutter experience.
+- Designed a feature-contract framework and application shell that every mobile feature runs inside, standardizing state management and infrastructure across teams.
+- Previously redesigned CI on GEICO's Flutter monorepo to test only affected code, cutting validation cycles 80–87% and scaling from 150 to a projected 300+ modules.
+
+## Favorite Projects
+- [Flexer](https://www.friedman.works/project/flexer/) — exercise tracker & social network (Flutter, Firebase)
+- [CENT](https://github.com/Fried-man/CENT) — COVID-19 variant relational visualiser & predictive model
+- [Spherical Adventures](https://github.com/Anderita-Games/Spherical_Adventures) — 2D-in-3D platformer game
+- [SECSignal](https://github.com/Fried-man-Education/SECSignal) — data-driven insights and analysis on SEC filings
+- [pdf_to_notes](https://github.com/Fried-man/pdf_to_notes) — converts PDFs into summarized notes
+
+## Personal Organizations
+I'm affiliated with several GitHub organizations, some of which I solely own. These serve to organize my repositories categorically while keeping them easily accessible.
+- [Anderita-Games](https://github.com/Anderita-Games) — 100+ apps I created in high school
+- [Fried-man-Education](https://github.com/Fried-man-Education) — academic & recreational educational endeavours
+- [Unfinished-Repos](https://github.com/Unfinished-Repos) — *"Can anything be sadder than work left unfinished? Yes, work never begun."* — Christina Rossetti
+
+## Around the Web
+- Portfolio: [friedman.works](https://friedman.works)
+- LinkedIn: [in/fried-man](https://www.linkedin.com/in/fried-man)
