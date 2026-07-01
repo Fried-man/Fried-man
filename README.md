@@ -26,8 +26,7 @@ Please take some time to explore my profile and organizations, and get a sense o
 - [Flexer](https://www.friedman.works/project/flexer/) — exercise tracker & social network (Flutter, Firebase)
 - [CENT](https://github.com/Fried-man/CENT) — COVID-19 variant relational visualiser & predictive model
 - [Spherical Adventures](https://github.com/Anderita-Games/Spherical_Adventures) — 2D-in-3D platformer game
-- [SECSignal](https://github.com/Fried-man-Education/SECSignal) — data-driven insights and analysis on SEC filings
-- [pdf_to_notes](https://github.com/Fried-man/pdf_to_notes) — converts PDFs into summarized notes
+- [ShuttleU](https://www.friedman.works/project/shuttleu/) — campus rideshare app connecting college students with safe & reliable rides (Dart, Firebase)
 
 ## Personal Organizations
 I'm affiliated with several GitHub organizations, some of which I solely own. These serve to organize my repositories categorically while keeping them easily accessible.
