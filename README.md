@@ -18,9 +18,9 @@ I began programming recreationally in 2012 and since then my love for computing 
 Please take some time to explore my profile and get a sense of the work I'm passionate about. Thank you for stopping by and I hope you have a wonderful day!
 
 ## Favorite Projects
-- [Flexer](https://www.friedman.works/project/flexer/): exercise tracker & social network (Flutter, Firebase)
+- [Flexer](https://www.friedman.works/project/flexer/): exercise tracker & social network
 - [CENT](https://github.com/Fried-man/CENT): COVID-19 variant relational visualiser & predictive model
-- [ShuttleU](https://www.friedman.works/project/shuttleu/): campus rideshare app connecting college students with safe & reliable rides (Dart, Firebase)
+- [ShuttleU](https://www.friedman.works/project/shuttleu/): campus rideshare app connecting college students with safe & reliable rides
 - [Commit Wars](https://commitwars.com): Custom Git leaderboard to drive my competitive spirit
 
 ## Personal Organizations
