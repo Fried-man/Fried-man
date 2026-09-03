@@ -13,26 +13,21 @@
 
 Hey! I'm **Andrew Friedman**, a Senior Software Engineer at [GEICO](https://github.com/Geico) and a Computer Science graduate of the Georgia Institute of Technology where I studied Computer Architecture and Artificial Intelligence. At work, I spend most of my time architecting GEICO's next-generation cross-platform Flutter platform. At home, I build stuff for fun (usually with [Flutter](https://flutter.dev))!
 
-I first began programming recreationally in 2012 and since then my love for computing has only grown stronger. Over the last decade I've shipped 100+ apps to the public, contributed to large-scale enterprise monorepos used by 100+ engineers, and made some contributions to open source! It's a true joy to use my skills to build meaningful projects and give back to the tech community.
+I began programming recreationally in 2012 and since then my love for computing has only grown stronger. Over the last decade I've shipped 100+ apps to the public, contributed to large-scale enterprise monorepos used by 100+ engineers, and made some contributions to open source!
 
-Please take some time to explore my profile and organizations and get a sense of the work I'm passionate about. Thank you for stopping by and I hope you have a wonderful day!
-
-## What I'm Building
-- **Lead architect** of the Flutter host application rebuilding GEICO's entire mobile app, unifying two decade-old native iOS and Android codebases into a single Flutter experience.
-- Designed a feature-contract framework and application shell that every mobile feature runs inside, standardizing state management and infrastructure across teams.
-- Previously redesigned CI on GEICO's Flutter monorepo to test only affected code, cutting validation cycles 80–87% and scaling from 150 to a projected 300+ modules.
+Please take some time to explore my profile and get a sense of the work I'm passionate about. Thank you for stopping by and I hope you have a wonderful day!
 
 ## Favorite Projects
-- [Flexer](https://www.friedman.works/project/flexer/) — exercise tracker & social network (Flutter, Firebase)
-- [CENT](https://github.com/Fried-man/CENT) — COVID-19 variant relational visualiser & predictive model
-- [ShuttleU](https://www.friedman.works/project/shuttleu/) — campus rideshare app connecting college students with safe & reliable rides (Dart, Firebase)
-- [Commit Wars](https://commit-leaderboard-worker.justinlyon12.workers.dev) - Custom Git leaderboard to drive my competitive spirit
+- [Flexer](https://www.friedman.works/project/flexer/): exercise tracker & social network (Flutter, Firebase)
+- [CENT](https://github.com/Fried-man/CENT): COVID-19 variant relational visualiser & predictive model
+- [ShuttleU](https://www.friedman.works/project/shuttleu/): campus rideshare app connecting college students with safe & reliable rides (Dart, Firebase)
+- [Commit Wars](https://commitwars.com): Custom Git leaderboard to drive my competitive spirit
 
 ## Personal Organizations
 I'm affiliated with several GitHub organizations (some of which I solely own). The one I own serve to organize my repositories categorically while keeping them easily accessible.
-- [Anderita-Games](https://github.com/Anderita-Games) — 100+ apps I created in high school
-- [Fried-man-Education](https://github.com/Fried-man-Education) — academic & recreational educational endeavours
-- [Unfinished-Repos](https://github.com/Unfinished-Repos) — *"Can anything be sadder than work left unfinished? Yes, work never begun."* — Christina Rossetti
+- [Anderita-Games](https://github.com/Anderita-Games): 100+ apps I created in high school
+- [Fried-man-Education](https://github.com/Fried-man-Education): academic & recreational educational endeavours
+- [Unfinished-Repos](https://github.com/Unfinished-Repos): *"Can anything be sadder than work left unfinished? Yes, work never begun."* — Christina Rossetti
 
 ## Around the Web
 - Portfolio: [friedman.works](https://friedman.works)
