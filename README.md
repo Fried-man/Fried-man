@@ -22,12 +22,7 @@ Please take some time to explore my profile and get a sense of the work I'm pass
 - [CENT](https://github.com/Fried-man/CENT): COVID-19 variant relational visualiser & predictive model
 - [ShuttleU](https://www.friedman.works/project/shuttleu/): campus rideshare app connecting college students with safe & reliable rides
 - [Commit Wars](https://commitwars.com): Custom Git leaderboard to drive my competitive spirit
-
-## Personal Organizations
-I'm affiliated with several GitHub organizations (some of which I solely own). The one I own serve to organize my repositories categorically while keeping them easily accessible.
 - [Anderita-Games](https://github.com/Anderita-Games): 100+ apps I created in high school
-- [Fried-man-Education](https://github.com/Fried-man-Education): academic & recreational educational endeavours
-- [Unfinished-Repos](https://github.com/Unfinished-Repos): *"Can anything be sadder than work left unfinished? Yes, work never begun."* — Christina Rossetti
 
 ## Around the Web
 - Portfolio: [friedman.works](https://friedman.works)
