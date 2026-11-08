@@ -27,4 +27,4 @@ I authored the **complete Dart implementations** of [Cucumber Messages](https://
 
 I studied computer science at **Georgia Tech**, focusing on computer architecture and artificial intelligence. My interests sit at the intersection of software architecture, developer productivity, and building useful products.
 
-**Elsewhere:** [Portfolio](https://friedman.works) · [LinkedIn](https://www.linkedin.com/in/fried-man)
+**Elsewhere:** [Resume](Andrew%20Friedman%20Resume.pdf) · [Portfolio](https://friedman.works) · [LinkedIn](https://www.linkedin.com/in/fried-man)
