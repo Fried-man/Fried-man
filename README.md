@@ -18,10 +18,10 @@ I authored the **complete Dart implementations** of [Cucumber Messages](https://
 
 ## Selected projects
 
-- **[Flexer](https://www.friedman.works/project/flexer/)** — A fitness-tracking and social app built with Flutter, with a focus on modular architecture and end-to-end product development.
-- **[ShuttleU](https://www.friedman.works/project/shuttleu/)** — A campus rideshare platform I helped build as co-founder and CTO.
-- **[Commit Wars](https://commitwars.com)** — A Git-based leaderboard for a little friendly competition.
-- **[Anderita Games](https://github.com/Anderita-Games)** — My early independent mobile game and app development work.
+- **[Flexer](https://www.friedman.works/project/flexer/)** - A fitness-tracking and social app built with Flutter, with a focus on modular architecture and end-to-end product development.
+- **[ShuttleU](https://www.friedman.works/project/shuttleu/)** - A campus rideshare platform I helped build as co-founder and CTO.
+- **[Commit Wars](https://commitwars.com)** - A Git-based leaderboard for a little friendly competition.
+- **[Anderita Games](https://github.com/Anderita-Games)** - My early independent mobile game and app development work.
 
 ## Background
 
